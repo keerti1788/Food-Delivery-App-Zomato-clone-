@@ -1,0 +1,23 @@
+.login-container {
+    display: flex;
+    align-items: right;
+    justify-content: right;
+    gap: 10px;
+}
+.login-form {
+    width: 500px;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 10px;
+
+    
+  }
+  
+  .login-image {
+    width:300%; 
+    height: auto;
+
+  }
+
+  
+  
